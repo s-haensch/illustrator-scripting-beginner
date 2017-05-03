@@ -1,1 +1,0 @@
-$.writeln(app.activeDocument.name);
